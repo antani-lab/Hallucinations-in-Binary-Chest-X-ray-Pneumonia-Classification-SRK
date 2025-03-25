@@ -16,7 +16,7 @@ The Jupyter notebook "entropy_analysis.ipynb" uses the following package version
 
 # Dataset
 
-The pediatric chest X-ray dataset published by Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), “Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification”, Mendeley Data, V2, doi: 10.17632/rscbjbr9sj.2. This dataset contains 5,856 frontal CXR images of children (ages 1–5), collected from Guangzhou Women and Children’s Medical Center, China. The CXR images are categorized into three classes: (i) showing normal lungs, (ii) bacterial pneumonia, or (iii) viral pneumonia. No other clinical metadata is provided.
+The pediatric chest X-ray dataset published by [Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), “Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification”, Mendeley Data, V2, doi: 10.17632/rscbjbr9sj.2](https://data.mendeley.com/datasets/rscbjbr9sj/3). This dataset contains 5,856 frontal CXR images of children (ages 1–5), collected from Guangzhou Women and Children’s Medical Center, China. The CXR images are categorized into three classes: (i) showing normal lungs, (ii) bacterial pneumonia, or (iii) viral pneumonia. No other clinical metadata is provided.
 
 # Preprocessing Methods
 
